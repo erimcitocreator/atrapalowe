@@ -1,0 +1,46 @@
+button{
+    text-decoration: none;
+    background: black;
+    cursor: pointer;
+    border: none;
+    padding: 16px 32px;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    border-radius: 12px;
+}
+
+
+button{
+    text-decoration: none;
+    background: black;
+    cursor: pointer;
+    border: none;
+    padding: 16px 32px;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    border-radius: 12px;
+}
+
+
+ /* footer */
+
+ footer{
+    background-color: #414141;
+    padding: 10px 0 30px;
+    margin: 80;
+}
+
+.contenedor-footer{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #ccc;
+
+}
+
